@@ -1,0 +1,6 @@
+{
+  "name": "GamaTutor: Gama Animation Engine & TeachBack Studio",
+  "description": "Revamped Gama Animation Engine (GAE) tutorial creator and player with TeachBack learning-by-teaching, AI knowledge gap detection, script-to-animation synthesizer, EMR/RME workflow labeling, community animation hub, and learning challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
